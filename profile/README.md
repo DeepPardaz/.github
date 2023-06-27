@@ -7,12 +7,12 @@ For further information or to connect with our team, please reach out to us via 
 Machine processing in the depths of human stories.
 
 📫 deeppardaz@gmail.com
-
+🌐 https://deeppardaz.github.io/index.html
 
 ## Team
 
-- Hadi Heydari - Co-Founder & AI Developer ([GitHub](https://github.com/Haadini))
-- Ali Yazdani - Co-Founder & AI Developer ([GitHub](https://github.com/aliyzd95))
+- 🧑‍💻Hadi Heydari - Co-Founder & AI Developer ([GitHub](https://github.com/Haadini))
+- 🧑‍💻Ali Yazdani - Co-Founder & AI Developer ([GitHub](https://github.com/aliyzd95))
 <!--
 
 **Here are some ideas to get you started:**
