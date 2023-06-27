@@ -8,9 +8,9 @@ Machine processing in the depths of human stories.
 
 - Huggingface:
   🤗
--website:
+- website:
   🌐 https://deeppardaz.github.io/index.html
--Email:
+- Email:
   📫 deeppardaz@gmail.com
 
 
