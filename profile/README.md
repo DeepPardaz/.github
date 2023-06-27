@@ -6,9 +6,12 @@ For further information or to connect with our team, please reach out to us via 
 
 Machine processing in the depths of human stories.
 
-
-🌐 https://deeppardaz.github.io/index.html
-📫 deeppardaz@gmail.com
+- Huggingface:
+  🤗
+-website:
+  🌐 https://deeppardaz.github.io/index.html
+-Email:
+  📫 deeppardaz@gmail.com
 
 
 ## Team
