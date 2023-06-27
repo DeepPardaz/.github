@@ -4,8 +4,6 @@ Deep Pardaz is a cutting-edge artificial intelligence laboratory specializing in
 
 For further information or to connect with our team, please reach out to us via email using the contact information provided below.
 
-Machine processing in the depths of human stories.
-
 - Huggingface:
   🤗
 - website:
