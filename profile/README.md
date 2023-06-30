@@ -7,7 +7,7 @@ For further information or to connect with our team, please reach out to us via 
 - Huggingface:
   🤗
 - website:
-  🌐 https://deeppardaz.github.io/index.html
+  🌐 https://deeppardaz.github.io
 - Email:
   📫 deeppardaz@gmail.com
 
