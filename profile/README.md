@@ -16,7 +16,6 @@ For further information or to connect with our team, please reach out to us via 
 
 - 🧑‍💻Hadi Heydari - Co-Founder & AI Developer ([GitHub](https://github.com/Haadini))
 - 🧑‍💻Ali Yazdani - Co-Founder & AI Developer ([GitHub](https://github.com/aliyzd95))
-- 🧑‍💻Alireza Soltanabadi - Co-Founder & Business Development
 
 
 ### <em>Machine processing in the depths of human stories.</em>
